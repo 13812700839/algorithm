@@ -11,6 +11,7 @@ import java.util.Scanner;
  * 难度：简单
  * 标签：填空题, 2020, 省赛
  * 时空限制：1s/128M
+ *
  * @author Pengcc
  * @version 1.0 - 2022/09/21
  */

@@ -7,6 +7,7 @@ import java.util.Scanner;
  * 描述：输入两个正整数 A,B，请你计算 A+B，并输出
  * 难度：新手教程
  * 时空限制：1s/256M
+ *
  * @author Pengcc
  * @version 1.0 - 2022/09/20
  */

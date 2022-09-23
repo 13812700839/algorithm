@@ -7,6 +7,7 @@ import java.util.Scanner;
  * 题目描述：如果一个 MP3 文件占用磁盘的大小是 4MB，小蓝的硬盘还剩下 100GB 的空间，请问他还可以放多少个这样的 MP3 文件？
  * 难度：新手教程
  * 时空限制：1s/128M
+ *
  * @author Pengcc
  * @version 1.0 - 2022/09/20
  */

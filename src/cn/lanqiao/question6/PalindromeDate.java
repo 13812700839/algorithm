@@ -13,6 +13,7 @@ import java.util.Scanner;
  * 难度：中等
  * 标签：模拟, 构造, 2020, 省赛
  * 时空限制：1s/256M
+ *
  * @author Pengcc
  * @version 1.0 - 2022/09/21
  */

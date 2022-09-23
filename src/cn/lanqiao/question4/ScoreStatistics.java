@@ -10,6 +10,7 @@ import java.util.Scanner;
  * 难度：简单
  * 标签：数学, 暴力, 2020, 省赛
  * 时空限制：1s/256M
+ *
  * @author Pengcc
  * @version 1.0 - 2022/09/20
  */
